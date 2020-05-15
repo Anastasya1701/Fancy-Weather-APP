@@ -1,5 +1,5 @@
 ### Fancy-Weather-APP
-[https://anastasya1701.github.io/Fancy-Weather-APP](https://anastasya1701.github.io/Fancy-Weather-APP)
+Demo - [https://anastasya1701.github.io/Fancy-Weather-APP](https://anastasya1701.github.io/Fancy-Weather-APP)
 
 ### TECHNICAL IMPLEMENTATION:
 
